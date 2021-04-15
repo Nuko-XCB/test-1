@@ -1,7 +1,7 @@
 
 [Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)
 
-<div align=center><img width="550" height="550" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
+<img width="550" height="550" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
 
  
 
