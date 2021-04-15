@@ -8,17 +8,24 @@
 
 # About the project
 
-## - Software
+The sweep-robot is a simple, small Robot.It scans a memory map to carry out sweeping movements in accessible areas.
+
+
+
+## Software
 
 - Opencv 4.5.1
 - Python GPIO
 - result
 
-## - Hardware 
+## Hardware 
+- Raspberry Pi 4 Model B
+- Radar
 - 3D drift
-- 装配效果图
+- 
+### Schematics:
 
-## - Roadmap
+## Roadmap
 
 
 # Getting Started
