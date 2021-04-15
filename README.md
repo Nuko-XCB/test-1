@@ -1,7 +1,7 @@
  [Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)
 
 
-![robot model](https://pan.baidu.com/disk/main?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&#/index?category=all&path=%2FSweep-Robot)
+![robot](https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg)
 
 
 
