@@ -1,6 +1,6 @@
- [Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)
+**<center>[Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)</center> **
 
-<div align=center><img width="150" height="150" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
+<div align=center><img width="350" height="350" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
 
 
 # 1. Introduction
