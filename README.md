@@ -1,9 +1,6 @@
  [Sweep-Robot](https://github.com/quboyue/Sweep-Robot-Team36)
 
-
-![robot](https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg)
-
-
+<div align=center><img width="150" height="150" src="https://github.com/GANTIAN-hub405/picutre/blob/main/sweep-robot.jpg"/></div>
 
 
 # 1. Introduction
