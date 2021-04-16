@@ -22,7 +22,13 @@ The sweep-robot is a simple, small Robot.It scans a memory map to carry out swee
 - Raspberry Pi 4 Model B
 - Radar
 - 3D drift
-- 
+
+
+<img width="350" height="350" src="https://github.com/Nuko-XCB/test-1/blob/main/000.png"/></div>
+
+
+
+
 ### Schematics:
 
 ## Roadmap
